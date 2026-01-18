@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data Files (Large files should not be in git)
+jsonldata/
+processed_data/
+*.jsonl
+*.csv
+
+# OS generated
+.DS_Store
+Thumbs.db
